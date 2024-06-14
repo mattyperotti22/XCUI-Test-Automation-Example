@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AnimatedCollectionViewLayout (1.1.0)
+  - Kingfisher (7.11.0)
+  - Reveal-SDK (46)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - AnimatedCollectionViewLayout
+  - Kingfisher (~> 7.11.0)
+  - Reveal-SDK
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatedCollectionViewLayout
+    - Kingfisher
+    - Reveal-SDK
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AnimatedCollectionViewLayout: 0c1a38c4be115c525c887be183fc91ef65737c5d
+  Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  Reveal-SDK: 37efb038b3e9ef54cf16e18f90be22a32a9c708a
+
+PODFILE CHECKSUM: 38dae16578685a4c3bfe6a06267d15a7de3843fa
+
+COCOAPODS: 1.15.2
