@@ -1,5 +1,5 @@
 # Projector
-Projector is an iOS mobile app that enables to get all information about movies, based on The Movie Database (TMDb) 
+Projector is an iOS mobile app that enables users to get all information about movies, based on The Movie Database (TMDb) 
 
 
 ## Third-party libraries
